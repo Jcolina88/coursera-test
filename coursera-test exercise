@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="sp">
+<head>
+    <title>HTML es solo una estructura (posterior).</title>
+</head>
+<body>
+<h1 style="color: green; font-size: 60px; text-align:center;">HTML es solo una estructura.</h1>
+<p style="margin: 20 100px 20 100 px; font-size: 2em;">Este texto es solo parte de la prueba que estoy haciendo.</p>
+<p>No se trata de nada oficial, es solo prueba.</p>  
+<footer>
+  <hr>
+  <p style="text-align: center;" onclick="alert('contactanos si no funciona');">Soporte Tecnico: buenservicioprueba@servidorcaido.com</p>  
+</footer>  
+</body>
+</html>
